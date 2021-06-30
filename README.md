@@ -1,6 +1,15 @@
 ### Hi there, I'm everfight!👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Everfighting)](https://github.com/Everfighting/github-readme-stats)
+生活杂感:
+公众号: everfight
+技术问答:
+https://segmentfault.com/u/everfigt
+技术笔记：
+http://www.cnblogs.com/everfight/
+知乎：
+https://www.zhihu.com/people/everfighting
+豆瓣：
+https://www.douban.com/people/binbeing/
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Everfighting&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
