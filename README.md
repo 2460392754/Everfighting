@@ -2,6 +2,21 @@
 
 ### Hi there, I'm everfight!👋
 
+生活杂感:
+公众号: everfight
+
+技术问答:
+https://segmentfault.com/u/everfigt
+
+技术笔记：
+http://www.cnblogs.com/everfight/
+
+知乎：
+https://www.zhihu.com/people/everfighting
+
+豆瓣：
+https://www.douban.com/people/binbeing/
+
 <!--
 **Everfighting/Everfighting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
