@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Everfighting)](https://github.com/Everfighting/github-readme-stats)
+
 <!--
 **Everfighting/Everfighting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
