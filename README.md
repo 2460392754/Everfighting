@@ -5,17 +5,14 @@
 生活杂感:
 公众号: everfight
 
-技术问答:
-https://segmentfault.com/u/everfigt
+技术问答:[everfight](https://segmentfault.com/u/everfigt)
 
-技术笔记：
-http://www.cnblogs.com/everfight/
+技术笔记：[everfight](http://www.cnblogs.com/everfight/)
 
-知乎：
-https://www.zhihu.com/people/everfighting
+知乎：[everfighting](https://www.zhihu.com/people/everfighting)
 
-豆瓣：
-https://www.douban.com/people/binbeing/
+豆瓣：[binbeing](https://www.douban.com/people/binbeing/)
+
 
 <!--
 **Everfighting/Everfighting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
