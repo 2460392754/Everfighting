@@ -5,11 +5,9 @@
 生活杂感:
 公众号: everfight
 
-技术问答:[everfight](https://segmentfault.com/u/everfigt)
+知乎：[everfight](https://www.zhihu.com/people/everfighting)
 
-技术笔记：[everfight](http://www.cnblogs.com/everfight/)
-
-知乎：[everfighting](https://www.zhihu.com/people/everfighting)
+B站：[彬彬_bingo](https://space.bilibili.com/260184421)
 
 豆瓣：[binbeing](https://www.douban.com/people/binbeing/)
 
