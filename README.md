@@ -3,13 +3,14 @@
 ### Hi there, I'm bingo彬哥!👋
 
 生活杂感:
+
 公众号: bingo彬哥
 
-知乎：[everfight](https://www.zhihu.com/people/everfighting)
+知乎：[bingo彬哥](https://www.zhihu.com/people/everfighting)
 
 B站：[bingo_彬哥](https://space.bilibili.com/260184421)
 
-豆瓣：[binbeing](https://www.douban.com/people/binbeing/)
+豆瓣：[bingo彬哥](https://www.douban.com/people/binbeing/)
 
 
 <!--
